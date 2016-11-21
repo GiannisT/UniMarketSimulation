@@ -1,0 +1,928 @@
+*********** BEGIN A NEW AUCTION (bids=24, asks=18) ***********
+*********** BEGIN A NEW AUCTION (bids=6, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=12, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=7, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=6, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=17, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=5, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=23, asks=20) ***********
+
+
+
+AUCTION # 01
+
+Number of bids: 24
+Number of auction asks: 18
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+************************************************************************************************************************    BEGIN AUCTION # 001    ************************************************************************************************************************
+Asset    Feature                  Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+============================================================================================================================================================================================================================================================================
+File     Encryption At Transit    FairlySecured             Cloud Storage    Carbonite           --           2 CPU core @ 2.1Ghz    512 Mbyte    5 Gbyte            $ 111.71          $ 90.09            $ 50.09                        $ 4.5    English      
+--       Media Encryption SRTP    --                        --               --                  --           --                     --           --                       --               --                 --                           --    English      
+--       Media Encryption SRTP    --                        --               --                  --           --                     --           --                       --               --                 --                           --    English      
+--       Encryption At Rest       --                        --               --                  --           --                     --           --                       --               --                 --                           --    English      
+**************************************************************************************************************************    END AUCTION # 001   **************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 02
+
+Number of bids: 6
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+**********************************************************************************************************************************    BEGIN AUCTION # 001    **********************************************************************************************************************************
+Asset                  Feature                     Adapted Security Level    Service(s)    Service Provider         Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+================================================================================================================================================================================================================================================================================================
+--                     Encryption Tls Ssl          --                        --            --                       --           --                     --            --                       --               --                 --                           --    English      
+Voice Communication    Proxies                     FairlySecured             VoIP          1VOC                     2 mbits/s    --                     --            --                  $ 54.78          $ 43.83            $ 30.49                        $ 2.2    English      
+--                     Password Protected Files    --                        --            --                       --           --                     --            --                       --               --                 --                           --    English      
+Voice Communication    Encryption Tls Ssl          Secured                   VoIP          Kesher Communications    --           2 CPU core @ 2.1Ghz    1536 Mbyte    --                 $ 109.57          $ 87.65            $ 60.99                        $ 4.4    English      
+************************************************************************************************************************************    END AUCTION # 001   ************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 03
+
+Number of bids: 12
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+********************************************************************************************************************************    BEGIN AUCTION # 001    ********************************************************************************************************************************
+Asset                  Feature                  Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==========================================================================================================================================================================================================================================================================================
+File                   Encryption At Rest       FairlySecured             Cloud Storage    Mega                --           1 CPU core @ 2.1Ghz    2048 Mbyte    9 Gbyte              $ 65.8          $ 55.76            $ 35.76                        $ 2.8    English      
+Voice Communication    Proxies                  FairlySecured             VoIP             1Comms              2 mbits/s    --                     --            --                   $ 65.8          $ 55.76            $ 35.76                        $ 2.8    English      
+--                     Encryption At Transit    --                        --               --                  --           --                     --            --                       --               --                 --                           --    English      
+--                     Media Encryption SRTP    --                        --               --                  --           --                     --            --                       --               --                 --                           --    English      
+*********************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 04
+
+Number of bids: 7
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+****************************************************************************************************************************************    BEGIN AUCTION # 001    ****************************************************************************************************************************************
+Asset                  Feature                               Adapted Security Level    Service(s)       Service Provider         Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+============================================================================================================================================================================================================================================================================================================
+File                   Different Encryption Keys Per File    Secured                   Cloud Storage    SpiderOak                --           1 CPU core @ 2.1Ghz    512 Mbyte    7 Gbyte             $ 83.73          $ 76.12            $ 56.12                        $ 3.8    English      
+Voice Communication    Encryption Tls Ssl                    Secured                   VoIP             Kesher Communications    4 mbits/s    --                     --           --                  $ 83.73          $ 76.12            $ 56.12                        $ 3.8    English      
+--                     Media Encryption SRTP                 --                        --               --                       --           --                     --           --                       --               --                 --                           --    English      
+--                     Different Encryption Keys Per File    --                        --               --                       --           --                     --           --                       --               --                 --                           --    English      
+******************************************************************************************************************************************    END AUCTION # 001   ******************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 05
+
+Number of bids: 6
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+********************************************************************************************************************************    BEGIN AUCTION # 001    ********************************************************************************************************************************
+Asset                  Feature                  Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==========================================================================================================================================================================================================================================================================================
+--                     Encryption At Transit    --                        --               --                  --           --                     --            --                       --               --                 --                           --    English      
+--                     Media Encryption SRTP    --                        --               --                  --           --                     --            --                       --               --                 --                           --    English      
+File                   Segmentation Of Files    Secured                   Cloud Storage    SugarSync           --           2 CPU core @ 2.1Ghz    512 Mbyte     --                  $ 91.93          $ 75.35            $ 55.35                       $ 3.75    English      
+Voice Communication    Media Encryption SRTP    Secured                   VoIP             1Comms              --           2 CPU core @ 2.1Ghz    1536 Mbyte    --                  $ 91.93          $ 75.35            $ 55.35                       $ 3.75    English      
+*********************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 06
+
+Number of bids: 17
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+****************************************************************************************************************    BEGIN AUCTION # 001    ****************************************************************************************************************
+Asset    Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU    Memory    Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+============================================================================================================================================================================================================================================================
+--       Media Encryption SRTP       --                        --               --                  --           --     --        --                       --               --                 --                           --    English      
+File     Password Protected Files    FairlySecured             Cloud Storage    IDrive              4 mbits/s    --     --        --                  $ 96.54          $ 90.22            $ 50.22                        $ 4.5    English      
+--       Segmentation Of Files       --                        --               --                  --           --     --        --                       --               --                 --                           --    English      
+--       Encryption Tls Ssl          --                        --               --                  --           --     --        --                       --               --                 --                           --    English      
+******************************************************************************************************************    END AUCTION # 001   ******************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 07
+
+Number of bids: 5
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+********************************************************************************************************************************    BEGIN AUCTION # 001    ********************************************************************************************************************************
+Asset                  Feature                  Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==========================================================================================================================================================================================================================================================================================
+--                     Segmentation Of Files    --                        --               --                  --           --                     --            --                       --               --                 --                           --    English      
+File                   Encryption At Transit    Secured                   Cloud Storage    SpiderOak           3 mbits/s    --                     --            --                  $ 87.15          $ 76.45            $ 56.45                        $ 3.8    English      
+--                     Encryption At Rest       --                        --               --                  --           --                     --            --                       --               --                 --                           --    English      
+Voice Communication    Proxies                  Secured                   VoIP             Advancefone         --           2 CPU core @ 2.1Ghz    2048 Mbyte    --                  $ 87.15          $ 76.45            $ 56.45                        $ 3.8    English      
+*********************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 08
+
+Number of bids: 23
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*********************************************************************************************************************************    BEGIN AUCTION # 001    *********************************************************************************************************************************
+Asset                  Feature                  Adapted Security Level    Service(s)    Service Provider          Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==============================================================================================================================================================================================================================================================================================
+--                     Encryption At Rest       --                        --            --                        --           --                     --            --                       --               --                 --                           --    English      
+--                     Encryption At Rest       --                        --            --                        --           --                     --            --                       --               --                 --                           --    English      
+--                     Segmentation Of Files    --                        --            --                        --           --                     --            --                       --               --                 --                           --    English      
+Voice Communication    Proxies                  FairlySecured             VoIP          Neuwise Communications    --           2 CPU core @ 2.1Ghz    1024 Mbyte    --                   $ 95.0          $ 90.48            $ 50.48                        $ 4.5    English      
+***********************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               12 mbits/s      32 CPU core @ 2.1Ghz        5632 Mbyte     9100 Gbyte
+365Availability2               16 mbits/s       8 CPU core @ 2.1Ghz        5300 Mbyte     7503 Gbyte
+AnonymityShield2               30 mbits/s      28 CPU core @ 2.1Ghz        6052 Mbyte     8585 Gbyte
+ConfEnforcer1                 18 mbits/s      21 CPU core @ 2.1Ghz        6975 Mbyte     6051 Gbyte
+TrueEncryption1               10 mbits/s      32 CPU core @ 2.1Ghz        4871 Mbyte     4553 Gbyte
+365Availability1               28 mbits/s      25 CPU core @ 2.1Ghz        5171 Mbyte     6285 Gbyte
+AnonymityShield1               13 mbits/s      26 CPU core @ 2.1Ghz        4233 Mbyte     6978 Gbyte
+ConfEnforcer0                 31 mbits/s      20 CPU core @ 2.1Ghz        4529 Mbyte     8156 Gbyte
+TrueEncryption0               15 mbits/s      19 CPU core @ 2.1Ghz        6491 Mbyte     7392 Gbyte
+365Availability0               28 mbits/s      14 CPU core @ 2.1Ghz        5142 Mbyte     5864 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++ END +++++
++++++ 8 AUCTIONS +++++
+
+*** Ready for new task ***
+*********** BEGIN A NEW AUCTION (bids=6, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=5, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=5, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=4, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=12, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=11, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=9, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=10, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=5, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=4, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=3, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=7, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=13, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=5, asks=20) ***********
+*********** BEGIN A NEW AUCTION (bids=1, asks=20) ***********
+
+
+
+AUCTION # 01
+
+Number of bids: 6
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*********************************************************************************************************************************    BEGIN AUCTION # 001    *********************************************************************************************************************************
+Asset                  Feature                  Adapted Security Level    Service(s)    Service Provider          Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==============================================================================================================================================================================================================================================================================================
+Voice Communication    Media Encryption SRTP    FairlySecured             VoIP          Andrews and Arnold Ltd    --           1 CPU core @ 2.1Ghz    512 Mbyte    7 Gbyte             $ 71.07          $ 55.52            $ 35.52                        $ 2.8    Posted Offer  
+--                     Encryption At Rest       --                        --            --                        --           --                     --           --                       --               --                 --                           --    Posted Offer  
+Voice Communication    Encryption Tls Ssl       FairlySecured             VoIP          AstraQom                  --           2 CPU core @ 2.1Ghz    512 Mbyte    --                  $ 71.07          $ 55.52            $ 35.52                        $ 2.8    Posted Offer  
+--                     Encryption Tls Ssl       --                        --            --                        --           --                     --           --                       --               --                 --                           --    Posted Offer  
+***********************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 02
+
+Number of bids: 5
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*************************************************************************************************************************************    BEGIN AUCTION # 001    *************************************************************************************************************************************
+Asset                  Feature                               Adapted Security Level    Service(s)    Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+======================================================================================================================================================================================================================================================================================================
+Voice Communication    Encryption Tls Ssl                    FairlySecured             VoIP          Magnetic North      --           1 CPU core @ 2.1Ghz    1536 Mbyte    8 Gbyte            $ 113.57          $ 87.36            $ 47.36                        $ 4.4    Posted Offer  
+--                     Proxies                               --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+--                     Different Encryption Keys Per File    --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+--                     Media Encryption SRTP                 --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+***************************************************************************************************************************************    END AUCTION # 001   ***************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 03
+
+Number of bids: 5
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+***************************************************************************************************************************    BEGIN AUCTION # 001    ***************************************************************************************************************************
+Asset    Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+================================================================================================================================================================================================================================================================================
+--       Segmentation Of Files       --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File     Password Protected Files    Secured                   Cloud Storage    BlackBlaze          1 mbits/s    --                     --            --                 $ 105.49          $ 87.91            $ 61.24                        $ 4.4    Posted Offer  
+--       Proxies                     --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File     Segmentation Of Files       FairlySecured             Cloud Storage    SOSOnlineBackup     --           2 CPU core @ 2.1Ghz    2048 Mbyte    --                  $ 52.74          $ 43.95            $ 30.62                        $ 2.2    Posted Offer  
+****************************************************************************************************************************    END AUCTION # 001   ****************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 04
+
+Number of bids: 4
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+******************************************************************************************************************************    BEGIN AUCTION # 001    ******************************************************************************************************************************
+Asset                  Feature               Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+========================================================================================================================================================================================================================================================================================
+--                     Encryption Tls Ssl    --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+Voice Communication    Encryption Tls Ssl    FairlySecured             VoIP             1Comms              1 mbits/s    --                     --           --                  $ 61.16           $ 55.6             $ 35.6                        $ 2.8    Posted Offer  
+File                   Encryption At Rest    FairlySecured             Cloud Storage    BlackBlaze          --           2 CPU core @ 2.1Ghz    512 Mbyte    --                  $ 61.16           $ 55.6             $ 35.6                        $ 2.8    Posted Offer  
+--                     Proxies               --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+********************************************************************************************************************************    END AUCTION # 001   ********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 05
+
+Number of bids: 12
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*********************************************************************************************************************************    BEGIN AUCTION # 001    *********************************************************************************************************************************
+Asset                  Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==============================================================================================================================================================================================================================================================================================
+File                   Password Protected Files    Secured                   Cloud Storage    GoogleDrive         --           1 CPU core @ 2.1Ghz    512 Mbyte    5 Gbyte            $ 113.73          $ 88.16            $ 61.49                        $ 4.4    Posted Offer  
+Voice Communication    Proxies                     FairlySecured             VoIP             Magnetic North      1 mbits/s    --                     --           --                  $ 56.86          $ 44.08            $ 30.75                        $ 2.2    Posted Offer  
+--                     Proxies                     --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+--                     Encryption Tls Ssl          --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+***********************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 06
+
+Number of bids: 11
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*********************************************************************************************************************************    BEGIN AUCTION # 001    *********************************************************************************************************************************
+Asset                  Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==============================================================================================================================================================================================================================================================================================
+Voice Communication    Media Encryption SRTP       FairlySecured             VoIP             Tel2                --           2 CPU core @ 2.1Ghz    512 Mbyte    2 Gbyte              $ 58.8           $ 56.0             $ 36.0                        $ 2.8    Posted Offer  
+File                   Encryption At Transit       FairlySecured             Cloud Storage    SafeCopy            1 mbits/s    --                     --           --                   $ 58.8           $ 56.0             $ 36.0                        $ 2.8    Posted Offer  
+--                     Password Protected Files    --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+--                     Encryption Tls Ssl          --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+***********************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 07
+
+Number of bids: 9
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+***************************************************************************************************************************************    BEGIN AUCTION # 001    ***************************************************************************************************************************************
+Asset                  Feature                               Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+========================================================================================================================================================================================================================================================================================================
+Voice Communication    Media Encryption SRTP                 Secured                   VoIP             1Comms              --           2 CPU core @ 2.1Ghz    1536 Mbyte    6 Gbyte             $ 95.13          $ 87.27            $ 60.61                       $ 4.33    Posted Offer  
+--                     Different Encryption Keys Per File    --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File                   Encryption At Transit                 FairlySecured             Cloud Storage    OpenDrive           --           1 CPU core @ 2.1Ghz    512 Mbyte     --                  $ 47.56          $ 43.64             $ 30.3                       $ 2.17    Posted Offer  
+--                     Encryption At Rest                    --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+****************************************************************************************************************************************    END AUCTION # 001   ****************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 08
+
+Number of bids: 10
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+**********************************************************************************************************************************    BEGIN AUCTION # 001    **********************************************************************************************************************************
+Asset                  Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==============================================================================================================================================================================================================================================================================================
+File                   Encryption At Rest          Secured                   Cloud Storage    Norton              --           2 CPU core @ 2.1Ghz    1536 Mbyte    9 Gbyte             $ 78.54           $ 77.0             $ 57.0                       $ 3.85    Posted Offer  
+--                     Encryption Tls Ssl          --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+Voice Communication    Proxies                     Secured                   VoIP             Zaplee              --           1 CPU core @ 2.1Ghz    512 Mbyte     --                  $ 78.54           $ 77.0             $ 57.0                       $ 3.85    Posted Offer  
+--                     Password Protected Files    --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+***********************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 09
+
+Number of bids: 5
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*************************************************************************************************************************************    BEGIN AUCTION # 001    *************************************************************************************************************************************
+Asset                  Feature                               Adapted Security Level    Service(s)    Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+======================================================================================================================================================================================================================================================================================================
+Voice Communication    Proxies                               FairlySecured             VoIP          1VOC                --           2 CPU core @ 2.1Ghz    2048 Mbyte    7 Gbyte             $ 57.66          $ 55.44            $ 35.44                       $ 2.75    Posted Offer  
+--                     Different Encryption Keys Per File    --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+Voice Communication    Proxies                               FairlySecured             VoIP          1VOC                --           2 CPU core @ 2.1Ghz    512 Mbyte     --                  $ 57.66          $ 55.44            $ 35.44                       $ 2.75    Posted Offer  
+--                     Different Encryption Keys Per File    --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+***************************************************************************************************************************************    END AUCTION # 001   ***************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 010
+
+Number of bids: 4
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+********************************************************************************************************************************    BEGIN AUCTION # 001    ********************************************************************************************************************************
+Asset    Feature                               Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==========================================================================================================================================================================================================================================================================================
+--       Proxies                               --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File     Different Encryption Keys Per File    Secured                   Cloud Storage    CrahsPlan           5 mbits/s    --                     --            --                  $ 91.74          $ 76.45            $ 56.45                        $ 3.8    Posted Offer  
+--       Segmentation Of Files                 --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File     Segmentation Of Files                 Secured                   Cloud Storage    BlackBlaze          --           1 CPU core @ 2.1Ghz    2048 Mbyte    --                  $ 91.74          $ 76.45            $ 56.45                        $ 3.8    Posted Offer  
+*********************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 011
+
+Number of bids: 3
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+***************************************************************************************************************************    BEGIN AUCTION # 001    ***************************************************************************************************************************
+Asset    Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+================================================================================================================================================================================================================================================================================
+File     Segmentation Of Files       Secured                   Cloud Storage    Mega                --           1 CPU core @ 2.1Ghz    2048 Mbyte    5 Gbyte             $ 80.74          $ 75.46            $ 55.46                       $ 3.75    Posted Offer  
+--       Encryption Tls Ssl          --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File     Password Protected Files    Secured                   Cloud Storage    SOSOnlineBackup     --           2 CPU core @ 2.1Ghz    512 Mbyte     --                  $ 80.74          $ 75.46            $ 55.46                       $ 3.75    Posted Offer  
+--       Encryption At Transit       --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+****************************************************************************************************************************    END AUCTION # 001   ****************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 012
+
+Number of bids: 7
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+***************************************************************************************************************************************    BEGIN AUCTION # 001    ***************************************************************************************************************************************
+Asset                  Feature                               Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+========================================================================================================================================================================================================================================================================================================
+Voice Communication    Media Encryption SRTP                 Secured                   VoIP             Magnetic North      --           2 CPU core @ 2.1Ghz    2048 Mbyte    3 Gbyte             $ 95.01          $ 76.01            $ 56.01                        $ 3.8    Posted Offer  
+--                     Proxies                               --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+File                   Segmentation Of Files                 Secured                   Cloud Storage    Dropbox             --           2 CPU core @ 2.1Ghz    512 Mbyte     --                  $ 95.01          $ 76.01            $ 56.01                        $ 3.8    Posted Offer  
+--                     Different Encryption Keys Per File    --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+****************************************************************************************************************************************    END AUCTION # 001   ****************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 013
+
+Number of bids: 13
+Number of auction asks: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*******************************************************************************************************************************    BEGIN AUCTION # 001    *******************************************************************************************************************************
+Asset                  Feature                  Adapted Security Level    Service(s)    Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+========================================================================================================================================================================================================================================================================================
+Voice Communication    Proxies                  FairlySecured             VoIP          Zaplee              --           1 CPU core @ 2.1Ghz    1024 Mbyte    5 Gbyte             $ 61.27           $ 55.2             $ 35.2                       $ 2.75    Posted Offer  
+Voice Communication    Proxies                  FairlySecured             VoIP          Advancefone         3 mbits/s    --                     --            --                  $ 61.27           $ 55.2             $ 35.2                       $ 2.75    Posted Offer  
+--                     Media Encryption SRTP    --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+--                     Segmentation Of Files    --                        --            --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+********************************************************************************************************************************    END AUCTION # 001   ********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 014
+
+Number of bids: 5
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*******************************************************************************************************************************    BEGIN AUCTION # 001    *******************************************************************************************************************************
+Asset    Feature                               Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==========================================================================================================================================================================================================================================================================================
+File     Password Protected Files              FairlySecured             Cloud Storage    IDrive              --           2 CPU core @ 2.1Ghz    512 Mbyte    8 Gbyte             $ 67.83           $ 55.6             $ 35.6                        $ 2.8    Posted Offer  
+File     Different Encryption Keys Per File    FairlySecured             Cloud Storage    Mega                3 mbits/s    --                     --           --                  $ 67.83           $ 55.6             $ 35.6                        $ 2.8    Posted Offer  
+--       Segmentation Of Files                 --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+--       Encryption At Transit                 --                        --               --                  --           --                     --           --                       --               --                 --                           --    Posted Offer  
+*********************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 015
+
+Number of bids: 1
+Number of auction asks: 20
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+**********************************************************************************************************************************    BEGIN AUCTION # 001    **********************************************************************************************************************************
+Asset                  Feature                     Adapted Security Level    Service(s)       Service Provider    Data Rate    CPU                    Memory        Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==============================================================================================================================================================================================================================================================================================
+File                   Segmentation Of Files       FairlySecured             Cloud Storage    Carbonite           --           2 CPU core @ 2.1Ghz    1536 Mbyte    4 Gbyte             $ 38.38           $ 38.0            $ 24.67                        $ 1.9    Posted Offer  
+Voice Communication    Encryption Tls Ssl          Secured                   VoIP             Tel2                4 mbits/s    --                     --            --                  $ 76.76           $ 76.0            $ 49.33                        $ 3.8    Posted Offer  
+--                     Proxies                     --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+--                     Password Protected Files    --                        --               --                  --           --                     --            --                       --               --                 --                           --    Posted Offer  
+***********************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+TrueEncryption2               17 mbits/s      29 CPU core @ 2.1Ghz        7268 Mbyte     8632 Gbyte
+365Availability2               22 mbits/s      12 CPU core @ 2.1Ghz        6219 Mbyte     9366 Gbyte
+AnonymityShield2               10 mbits/s       8 CPU core @ 2.1Ghz        7328 Mbyte     8336 Gbyte
+ConfEnforcer1                 32 mbits/s       9 CPU core @ 2.1Ghz        7971 Mbyte     6798 Gbyte
+TrueEncryption1               20 mbits/s      30 CPU core @ 2.1Ghz        4404 Mbyte     4876 Gbyte
+365Availability1               24 mbits/s      27 CPU core @ 2.1Ghz        7603 Mbyte     9560 Gbyte
+AnonymityShield1                9 mbits/s      10 CPU core @ 2.1Ghz        6886 Mbyte     9732 Gbyte
+ConfEnforcer0                 23 mbits/s      16 CPU core @ 2.1Ghz        4466 Mbyte     8678 Gbyte
+TrueEncryption0               24 mbits/s      15 CPU core @ 2.1Ghz        6660 Mbyte     5652 Gbyte
+365Availability0               23 mbits/s      23 CPU core @ 2.1Ghz        4980 Mbyte     6132 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++ END +++++
++++++ 15 AUCTIONS +++++

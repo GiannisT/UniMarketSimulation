@@ -1,0 +1,24 @@
+% 1. Title: Runtime security attributes
+% 
+% 2. Sources:
+%      (a) Creator: Francisco Ramirez (fmr067@cs.bham.ac,uk)
+%      (b) Date: January, 2016
+% 
+@RELATION selfsecure
+
+@ATTRIBUTE agent                    NUMERIC
+@ATTRIBUTE position                 {Administrator,Researcher,Lecturer}
+@ATTRIBUTE location                 {SecuredLocation,UnknownLocation,HostileLocation}
+@ATTRIBUTE device                   {UniversityDevice,SharedPublicDevice,PersonalDevice}
+@ATTRIBUTE informationSensitivity   {TopSecret,Secret,Classified,Restricted,Official,NonClassified,Clearance,CompartmentedInformation}
+@ATTRIBUTE asset                    {VoiceCommunication,File}
+@ATTRIBUTE feature                  {EncryptionTlsSsl,Proxies,MediaEncryptionSRTP,EncryptionAtRest,EncryptionAtTransit,DifferentEncryptionKeysPerFile,PasswordProtectedFiles,SegmentationOfFiles}
+@ATTRIBUTE securityLevel            {Unsecured,FairlySecured,Secured}
+%@ATTRIBUTE service                 {VoIPServices,CloudStorageServices}
+%@ATTRIBUTE featureSupported        {68bitsWEP2,128bitsAES,1028bitsAES,128bits3DES,256bitsAES,1024bitsAES,ArmyVPNwith64bitsWPA2-PSK,ArmyVPNwith128bitsAES,OnionRooting,NoMediaEncryption,MediaEncryptionIsSupportedSRTP,NoEncryptionAtTransit,NoDifferentEncryptionKeysPerFile,DifferentEncryptionKeysPerFile,NoPasswordProtectedFiles,PasswordProtectedFiles,NoSegmentationOfFiles,SuppportSegmentation}
+%@ATTRIBUTE DataRate                NUMERIC  % mbits/s
+%@ATTRIBUTE CPU                     NUMERIC  % CPU core @ 2.1 Ghz
+%@ATTRIBUTE Memory                  NUMERIC  % Mbyte
+%@ATTRIBUTE DiskSpace               NUMERIC  % Gbyte
+
+@data
